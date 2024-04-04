@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://saracarl.github.io/aapb-test/bookworm-margaret-atwood/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Bookworm -- Margaret Atwood" ] },
+    "homepage": [
+      {
+        "id": "https://americanarchive.org/catalog/cpb-aacip-ae2913a2a71",
+        "type": "Text",
+        "label": { "en": [ "Bookworm -- Margaret Atwood" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://americanarchive.org/",
+        "type": "Agent",
+        "label": { "en": [ "American Archive of Public Broadcasting" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://saracarl.github.io/aapb-test/bookworm-margaret-atwood/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1710.0,
+        "items": [
+          {
+            "id": "https://saracarl.github.io/aapb-test/bookworm-margaret-atwood/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://saracarl.github.io/aapb-test/bookworm-margaret-atwood/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://americanarchive.org/media/cpb-aacip-ae2913a2a71",
+                    "duration": 1710.0
+                },
+                "target": "https://saracarl.github.io/aapb-test/bookworm-margaret-atwood/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
