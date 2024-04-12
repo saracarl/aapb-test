@@ -35,7 +35,7 @@
                 "body": {
                   "id": "https://americanarchive.org/media/cpb-aacip_322-01bk3jtv",
                 "type":"Video",
-                "format":"video/mp4",
+                "format":"video/mpeg",
                     "duration": 1710.0
                 },
                 "target": "https://saracarl.github.io/aapb-test/bookworm-margaret-atwood/canvas-1/canvas"
