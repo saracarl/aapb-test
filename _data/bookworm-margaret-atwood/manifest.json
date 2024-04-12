@@ -34,6 +34,8 @@
                 "motivation": "painting",
                 "body": {
                   "id": "https://americanarchive.org/media/cpb-aacip-ae2913a2a71",
+                "type":"Sound",
+                "format":"audio/mpeg",
                     "duration": 1710.0
                 },
                 "target": "https://saracarl.github.io/aapb-test/bookworm-margaret-atwood/canvas-1/canvas"
